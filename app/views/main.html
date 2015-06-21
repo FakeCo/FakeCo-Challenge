@@ -1,0 +1,24 @@
+<div class="appHeader">
+	<h1>FakeCo Meetings </h1>
+	<h3> Current Time: {{ctrl.time | date:'h:mm a'}}</h3>
+</div>
+<ul>
+	<span ng-repeat="event in ctrl.scheduleData.events.list">
+		<li class="meeting {{event.status}}">
+			<div class="meetingInfo">
+				<h3 class="times">{{event.start_time | date:'h:mm a'}} - {{event.end_time | date:'h:mm a'}}</h3>
+				<h1>{{event.name}}</h1>
+				<p> {{event.location}}</p>
+				<br>
+				<div class="attendees">
+					<span ng-repeat="attendee in event.attendees">
+						<img ng-src="{{attendee.photo}}" class="attendeePhoto" alt="{{attendee.name}}">
+					</span>
+				</div>
+			</div>
+			<span class="startingSoon" ng-show="event.status == 'futureSoon'">
+				<h2>Starting Soon!</h2>
+			</span>
+		</li>
+	</span>
+</ul>

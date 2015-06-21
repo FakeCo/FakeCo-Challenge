@@ -1,0 +1,127 @@
+{
+  "type": "events.all",
+  "events": {
+    "list": [
+      {
+        "start_time": "2015-06-21 08:00:00",
+        "end_time": "2015-06-21 09:30:00",
+        "name": "Coffee Meeting",
+        "location": "Starbucks",
+        "attendees": [
+          {
+            "name": "Marty McFly",
+            "photo": "http://cl.ly/X6Pu/Screen%20Shot%202014-08-17%20at%2010.35.05%20PM.png"
+          },
+          {
+            "name": "Doc Brown",
+            "photo": "http://cl.ly/X6IO/Screen%20Shot%202014-08-17%20at%2010.36.07%20PM.png"
+          }
+        ]
+      },
+      {
+        "start_time": "2015-06-21 10:15:00",
+        "end_time": "2015-06-21 10:45:00",
+        "name": "Project Kickoff Meeting",
+        "location": "Room C",
+        "attendees": [
+          {
+            "name": "Biff Tannen",
+            "photo": "http://cl.ly/X5UP/Screen%20Shot%202014-08-17%20at%2010.41.11%20PM.png"
+          },
+          {
+            "name": "Lorrain Baines",
+            "photo": "http://cl.ly/X6Bd/Screen%20Shot%202014-08-17%20at%2010.42.02%20PM.png"
+          }
+        ]
+      },
+      {
+        "start_time": "2015-06-21 12:00:00",
+        "end_time": "2015-06-21 13:00:00",
+        "name": "Company Meeting",
+        "location": "Main Conference Room",
+        "attendees": [
+          {
+            "name": "Marty McFly",
+            "photo": "http://cl.ly/X6Pu/Screen%20Shot%202014-08-17%20at%2010.35.05%20PM.png"
+          },
+          {
+            "name": "Doc Brown",
+            "photo": "http://cl.ly/X6IO/Screen%20Shot%202014-08-17%20at%2010.36.07%20PM.png"
+          },
+          {
+            "name": "George McFly",
+            "photo": "http://cl.ly/X5tu/Screen%20Shot%202014-08-17%20at%2010.38.12%20PM.png"
+          },
+          {
+            "name": "Biff Tannen",
+            "photo": "http://cl.ly/X5UP/Screen%20Shot%202014-08-17%20at%2010.41.11%20PM.png"
+          },
+          {
+            "name": "Lorrain Baines",
+            "photo": "http://cl.ly/X6Bd/Screen%20Shot%202014-08-17%20at%2010.42.02%20PM.png"
+          }
+        ]
+      },
+      {
+        "start_time": "2015-06-21 14:00:00",
+        "end_time": "2015-06-21 16:00:00",
+        "name": "Project Design Meeting",
+        "location": "Main Conference Room",
+        "attendees": [
+          {
+            "name": "Doc Brown",
+            "photo": "http://cl.ly/X6IO/Screen%20Shot%202014-08-17%20at%2010.36.07%20PM.png"
+          },
+          {
+            "name": "George McFly",
+            "photo": "http://cl.ly/X5tu/Screen%20Shot%202014-08-17%20at%2010.38.12%20PM.png"
+          }
+        ]
+      },
+      {
+        "start_time": "2015-06-21 14:15:00",
+        "end_time": "2015-06-21 15:15:00",
+        "name": "Project Review Meeting",
+        "location": "Room A",
+        "attendees": [
+          {
+            "name": "Biff Tannen",
+            "photo": "http://cl.ly/X5UP/Screen%20Shot%202014-08-17%20at%2010.41.11%20PM.png"
+          },
+          {
+            "name": "Lorrain Baines",
+            "photo": "http://cl.ly/X6Bd/Screen%20Shot%202014-08-17%20at%2010.42.02%20PM.png"
+          }
+        ]
+      },
+      {
+        "start_time": "2015-06-21 16:30:00",
+        "end_time": "2015-06-21 17:00:00",
+        "name": "Standup",
+        "location": "Lounge",
+        "attendees": [
+          {
+            "name": "Marty McFly",
+            "photo": "http://cl.ly/X6Pu/Screen%20Shot%202014-08-17%20at%2010.35.05%20PM.png"
+          },
+          {
+            "name": "Doc Brown",
+            "photo": "http://cl.ly/X6IO/Screen%20Shot%202014-08-17%20at%2010.36.07%20PM.png"
+          },
+          {
+            "name": "George McFly",
+            "photo": "http://cl.ly/X5tu/Screen%20Shot%202014-08-17%20at%2010.38.12%20PM.png"
+          },
+          {
+            "name": "Biff Tannen",
+            "photo": "http://cl.ly/X5UP/Screen%20Shot%202014-08-17%20at%2010.41.11%20PM.png"
+          },
+          {
+            "name": "Lorrain Baines",
+            "photo": "http://cl.ly/X6Bd/Screen%20Shot%202014-08-17%20at%2010.42.02%20PM.png"
+          }
+        ]
+      }
+    ]
+  }
+}
